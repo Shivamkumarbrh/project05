@@ -16,6 +16,7 @@
     height: 70vh;
     text-align: center;
     background-size: cover;
+    background-position: center;
     background-image: url('https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_960_720.jpg');
 }
 .h-content{
