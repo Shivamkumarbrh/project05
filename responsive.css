@@ -1,0 +1,33 @@
+@media screen and (min-width:600px) and (max-width:992px) {
+    .h-container{
+        border-left: none;
+        border-right: none;   
+    }
+    .navbar{
+        display: block;
+        width: auto;
+        align-self: center;
+        text-align: center;
+        border: 1px solid;
+    }
+    #hidden{
+        display: none;
+    }
+    .m-container{
+        width: 95%;
+    }
+    .a-container{
+        width: 95%;
+    }
+}
+@media screen and (max-width:599px) {
+    .navbar{
+      display: none;
+    }
+    .m-container{
+        width: 90%;
+    }
+    .a-container{
+        width: 90%;
+    }
+}
